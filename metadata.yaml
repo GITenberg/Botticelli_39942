@@ -1,0 +1,29 @@
+_repo: Botticelli_39942
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39942-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Binns, Henry Bryan
+    birthdate: 1873
+    deathdate: 1923
+    gutenberg_agent_id: '40321'
+    url: http://www.gutenberg.org/2009/agents/40321
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2012-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39942'
+  lccn: w08000032
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Masterpieces in Colour
+subjects:
+- !lcc 'ND'
+- !lcsh 'Botticelli, Sandro, 1444 or 5-1510'
+title: Botticelli
+url: http://www.gutenberg.org/ebooks/39942
