@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40321'
     url: http://www.gutenberg.org/2009/agents/40321
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39942#Botticelli
 gutenberg_bookshelf: Masterpieces in Colour
 gutenberg_issued: '2012-06-07'
 gutenberg_type: Text
